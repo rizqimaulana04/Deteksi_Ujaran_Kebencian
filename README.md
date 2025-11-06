@@ -8,7 +8,7 @@
 ---
 #### Dosen Pengampu: Dr. Muhamad Fatcan, S.Kom., M.Kom. 
 ---
-*Memenuhi Tugas UTS Mata Kuliah Kecerdasan Buatan*
+#### Memenuhi Tugas UTS Mata Kuliah Kecerdasan Buatan
 ---
 
 Klasifikasi *biner* pada teks berbahasa Indonesia dari media sosial (0 = tidak mengandung ujaran kebencian, 1 = mengandung ujaran kebencian).  

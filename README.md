@@ -5,7 +5,7 @@
 | Afrizal Fajrianto A.S | 312210449      |
 | Sandy Ramadhan| 312210633              |
 | Dhefi Nurkholik    | 312210414              |
-
+*Dosen Pengampu: Dr. Muhamad Fatcan, S.Kom., M.Kom.*
 ---
 *Memenuhi Tugas UTS Mata Kuliah Kecerdasan Buatan*
 ---
